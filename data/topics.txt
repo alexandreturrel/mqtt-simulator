@@ -1,0 +1,3 @@
+test
+/house/living-room/ceiling-light
+/garage/light
